@@ -1,4 +1,9 @@
-Nome artefato: EOR - Especifica��o de objetivos e requisitos.txt
-Nome do(a) autor(a): Rafael Can�do de Moraes Mereb
-Data de cria��o: 14/04/2015
-Hora de cria��o: 00:49:10
+Nome artefato: EOR - Especificação de objetivos e requisitos.txt
+Nome do(a) autor(a): Rafael Canêdo de Moraes Mereb
+Data de criação: 14/04/2015
+Hora de criação: 00:49:10
+
+Nome artefato: Especificação de objetivos e requisitos.txt
+ Nome do(a) autor(a) da alteração: Breno Fernandes Dniel de Carvalho
+ Data da alteração: 14/04/2015
+ Hora da alteração: 01:01:10

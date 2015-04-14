@@ -1,4 +1,9 @@
 Nome artefato: Plano de Metas.txt
-Nome do(a) autor(a): Rafael Can�do de Moraes Mereb
-Data de cria��o: 14/04/2015
-Hora de cria��o: 00:12:20
+Nome do(a) autor(a): Rafael Canêdo de Moraes Mereb
+Data de criação: 14/04/2015
+Hora de criação: 00:12:20
+
+Nome artefato: Plano de Metas.txt
+Nome do(a) autor(a) da alteração: Matheus Lima
+Data da alteração: 14/04/2015
+ora da alteração: 00:35:07

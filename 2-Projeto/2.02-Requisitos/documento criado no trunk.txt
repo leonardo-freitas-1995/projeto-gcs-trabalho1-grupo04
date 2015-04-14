@@ -1,0 +1,4 @@
+Nome artefato: documento criado no trunk.txt
+Nome do(a) autor(a): Leonardo Freitas dos Santos
+Data de criação: 14/04/2015
+Hora de criação: 01:00

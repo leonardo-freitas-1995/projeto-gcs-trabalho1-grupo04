@@ -1,0 +1,4 @@
+Nome artefato: Diagrama de Sequencia 01.txt
+Nome do(a) autor(a): Nome do(a) aluno(a)
+Data de criação: 14/04/2015
+Hora de criação: 00:44:09
